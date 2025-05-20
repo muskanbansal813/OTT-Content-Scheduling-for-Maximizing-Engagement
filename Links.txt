@@ -1,0 +1,29 @@
+
+1.PowerBI Dashboard Published Link
+
+https://app.powerbi.com/view?r=eyJrIjoiZDM3ZjE2ZTctMGE5Yy00YWMyLWJiMzEtZjk4Y2IyMzM2YTJhIiwidCI6ImUyNTFiNjU0LWE2MWQtNDJjZS04MGFjLThkMzcxZWI4NmM2YSJ9
+
+-----------------------------------------------------------------------------------------------------
+
+2. Streamlit Visualization App
+https://streamline-ott-content-for-maximum-engagement-tisnalsgulbiryj9.streamlit.app/
+
+Credentials 
+Username: muskan
+Password: Muskan@2025
+
+Github Repository Link
+https://github.com/muskanbansal813/Streamline-OTT-Content-for-Maximum-Engagement
+
+---------------------------------------------------------------------------------------------------
+
+3. Streamlit Predictive Modeling App
+https://predictivemodelapppy-87pnz9vn7cfknqbgvnucmh.streamlit.app/
+
+Credentials 
+Username: muskan
+Password: Muskan@2025
+
+
+Github Repository Link
+https://github.com/muskanbansal813/OTT-Average-Watch-Time-Predictor
