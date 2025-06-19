@@ -21,7 +21,7 @@ This project analyzes OTT (Over-the-Top) platform data to explore patterns in vi
   - Genre-based performance
   - Daily/weekly viewer engagement
   - Demographic distribution and trends
-- [🔗 Link to published dashboard]
+- [🔗 Dashboard Link]
   https://app.powerbi.com/view?r=eyJrIjoiZDM3ZjE2ZTctMGE5Yy00YWMyLWJiMzEtZjk4Y2IyMzM2YTJhIiwidCI6ImUyNTFiNjU0LWE2MWQtNDJjZS04MGFjLThkMzcxZWI4NmM2YSJ9
 
 ### ✅ 4. Predictive Modeling
